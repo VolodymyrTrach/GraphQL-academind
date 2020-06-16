@@ -1,0 +1,25 @@
+{
+  "name": "graphql-academind",
+  "version": "1.0.0",
+  "description": "learn graphql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VolodymyrTrach/GraphQL-academind.git"
+  },
+  "author": "Volodymyr Trach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VolodymyrTrach/GraphQL-academind/issues"
+  },
+  "homepage": "https://github.com/VolodymyrTrach/GraphQL-academind#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
